@@ -111,10 +111,10 @@
             minutes: 0,
             seconds: 0,
             words: {
-                days: 'day',
-                hours: 'hour',
-                minutes: 'minute',
-                seconds: 'second',
+                days: 'hari',
+                hours: 'jam',
+                minutes: 'menit',
+                seconds: 'detik',
                 pluralLetter: 's'
             },
             plural: true,
