@@ -1,0 +1,52 @@
+.content_event1
+{
+    background-color:red;
+    /*background-image: url(../images/b1.png), url(../images/b2.png), url(../images/b3.png), url(../images/b4.png);*/
+    background-position: 5px 4px, 99% 4px, 5px 99%, 99% 99%;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    position: relative;
+}
+.atas_kiri
+{
+    background-image: url(../images/b1.png);
+    background-repeat:no-repeat;
+    width:77px;
+    height:77px;
+    margin-top:5px;
+    margin-left:5px;
+    float:left;
+}
+
+.atas_kanan
+{
+    background-image: url(../images/b2.png);
+    background-repeat:no-repeat;
+    width:77px;
+    height:77px;
+    margin-top:5px;
+    margin-right:5px;
+    float:right;
+}
+
+.bawah_kiri
+{
+    background-image: url(../images/b3.png);
+    background-repeat:no-repeat;
+    width:77px;
+    height:77px;
+    margin-bottom:5px;
+    margin-left:5px;
+    float:left;
+}
+
+.bawah_kanan
+{
+    background-image: url(../images/b4.png);
+    background-repeat:no-repeat;
+    width:77px;
+    height:77px;
+    margin-bottom:5px;
+    margin-right:5px;
+    float:right;
+}
